@@ -6,6 +6,10 @@
 ![](pic0.png)
 
 ![](pic1.png)
+
+test build
+## Demo
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
